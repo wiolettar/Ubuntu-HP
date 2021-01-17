@@ -1,1 +1,1 @@
-# UbuntuHP
+# Hangman game in JavaScript
